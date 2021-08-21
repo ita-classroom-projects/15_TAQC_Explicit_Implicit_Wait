@@ -1,10 +1,10 @@
-# 13_TAQC_Search_by_XPath
+# 15_TAQC_Explicit_Implicit_Wait
 
 > Please, write integration tests by Selenium WebDriver to verify some features of Open Cart Application.
 Use Explicit waits to search web elements.
 Please develop next methods in the SearchExplicitTest class
 
-- lupdate checkAddToCart method - remove presentationSleep(2); and write explicit wait code  to expect breadcrumb element or url updated;
+- update checkAddToCart method - remove presentationSleep(2); and write explicit wait code  to expect breadcrumb element or url updated;
 - checkAddAppleCinema30ToCart method - to check the functionality of a add Apple Cinema 30" item to cart;
 - checkAddToWishList method - to check the functionality of adding items to wish list;
 
